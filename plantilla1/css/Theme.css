@@ -42,6 +42,7 @@
 
 /*Menu horizontal*/
 
+
 .MenuHorizontal ul {
     list-style-type: none;
     margin: 0;
@@ -166,7 +167,7 @@
     
 }
 
-#ulLateral{
+.ulLateral{
     list-style: none;
 }
 .BarraLateral h3{
